@@ -1,0 +1,5 @@
+D:\Project Code\WinCESolution\InvokeDLL\bin\Debug\InvokeDLL.dll
+D:\Project Code\WinCESolution\InvokeDLL\bin\Debug\InvokeDLL.pdb
+D:\Project Code\WinCESolution\InvokeDLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project Code\WinCESolution\InvokeDLL\obj\Debug\InvokeDLL.dll
+D:\Project Code\WinCESolution\InvokeDLL\obj\Debug\InvokeDLL.pdb

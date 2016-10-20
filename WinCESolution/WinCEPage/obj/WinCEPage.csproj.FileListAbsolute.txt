@@ -1,0 +1,12 @@
+D:\Project Code\WinCESolution\WinCEPage\obj\Debug\ResolveAssemblyReference.cache
+D:\Project Code\WinCESolution\WinCEPage\obj\Debug\WinCEPage.InvokeForm.resources
+D:\Project Code\WinCESolution\WinCEPage\obj\Debug\WinCEPage.Properties.Resources.resources
+D:\Project Code\WinCESolution\WinCEPage\obj\Debug\WinCEPage.csproj.GenerateResource.Cache
+D:\Project Code\WinCESolution\WinCEPage\bin\Debug\WinCEPage.exe
+D:\Project Code\WinCESolution\WinCEPage\bin\Debug\WinCEPage.pdb
+D:\Project Code\WinCESolution\WinCEPage\bin\Debug\JsonHelper.dll
+D:\Project Code\WinCESolution\WinCEPage\bin\Debug\JsonHelper.pdb
+D:\Project Code\WinCESolution\WinCEPage\obj\Debug\WinCEPage.exe
+D:\Project Code\WinCESolution\WinCEPage\obj\Debug\WinCEPage.pdb
+D:\Project Code\WinCESolution\WinCEPage\bin\Debug\InvokeDLL.dll
+D:\Project Code\WinCESolution\WinCEPage\bin\Debug\InvokeDLL.pdb

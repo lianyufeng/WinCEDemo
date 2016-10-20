@@ -1,0 +1,5 @@
+D:\Project Code\WinCESolution\JsonHelper\bin\Debug\JsonHelper.dll
+D:\Project Code\WinCESolution\JsonHelper\bin\Debug\JsonHelper.pdb
+D:\Project Code\WinCESolution\JsonHelper\obj\Debug\ResolveAssemblyReference.cache
+D:\Project Code\WinCESolution\JsonHelper\obj\Debug\JsonHelper.dll
+D:\Project Code\WinCESolution\JsonHelper\obj\Debug\JsonHelper.pdb
